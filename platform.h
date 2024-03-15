@@ -1,0 +1,2 @@
+#define DRAM_BASE 0xc0000000
+#define DRAM_SIZE 0x40000000
